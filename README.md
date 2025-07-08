@@ -1,1 +1,1 @@
-![Checkout Screenshot](/output ss.png)
+![Checkout Screenshot](/output_ss.png)
