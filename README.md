@@ -1,0 +1,1 @@
+![Checkout Screenshot](/output ss.png)
